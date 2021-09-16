@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<holidays>
+<holiday>
+<name>New Year's Day</name>
+<occurrence>January 1st</occurrence>
+</holiday>
+<holiday>
+<name>Birthday of Martin Luther King, Jr.</name>
+<occurrence>third Monday of January</occurrence>
+</holiday>
+<holiday>
+<name>Washington's Birthday</name>
+<occurrence>third Monday of February</occurrence>
+</holiday>
+<holiday>
+<name>Memorial Day</name>
+<occurrence>last Monday of May</occurrence>
+</holiday>
+<holiday>
+<name>Juneteenth Independence Day</name>
+<occurrence>June 19th</occurrence>
+</holiday>
+<holiday>
+<name>Independence Day</name>
+<occurrence>July 4th</occurrence>
+</holiday>
+<holiday>
+<name>Labor Day</name>
+<occurrence>first Monday of September</occurrence>
+</holiday>
+<holiday>
+<name>Columbus Day</name>
+<occurrence>second Monday of October</occurrence>
+</holiday>
+<holiday>
+<name>Veterans Day</name>
+<occurrence>November 11th</occurrence>
+</holiday>
+<holiday>
+<name>Thanksgiving Day</name>
+<occurrence>fourth Thursday of November</occurrence>
+</holiday>
+<holiday>
+<name>Christmas Day</name>
+<occurrence>December 25th</occurrence>
+</holiday>
+</holidays>
